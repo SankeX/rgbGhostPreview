@@ -1,9 +1,6 @@
 <!--- 
 	Ghosting Mod Preview Tool
-	Coded by Gary 'SankeX' Simmons 2013
-	Web: http://sankex.tv
-	Twitch: http://twitch.tv/sankeifx
-	Email: code@sankex.tv
+	Coded by sankex 2013
 	Parameters:
 		url.ar/ag/ab - Arrow R/G/B Values
 		url.tr/rg/rb - Trail R/G/B Values
